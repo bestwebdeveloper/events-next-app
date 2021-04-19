@@ -1,0 +1,1 @@
+export { EventInfoScreen } from './EventInfoScreen';
